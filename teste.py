@@ -1,4 +1,4 @@
-texto = "a taca do mundo e nossa"
+texto = "a taca do mundo eh toda nossa"
 
 print(texto.replace('a', ''))
 #print(texto.strip('a'))
